@@ -1,0 +1,27 @@
+{
+	"context-menu": {
+		"atom-text-editor": [{
+			"label": "Toggle atom-to-photoshop console",
+			"command": "atom-to-photoshop:run"
+		}]
+	},
+	"menu": [{
+		"label": "Packages",
+		"submenu": [{
+			"label": "atom-to-photoshop",
+			"submenu": [{
+					"label": "Run",
+					"command": "atom-to-photoshop:run"
+				},
+				{
+					"label": "Toggle Console",
+					"command": "atom-to-photoshop:toggleConsole"
+				},
+				{
+					"label": "Clear Console",
+					"command": "atom-to-photoshop:clearConsole"
+				}
+			]
+		}]
+	}]
+}
