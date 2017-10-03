@@ -1,14 +1,14 @@
 {
 	"context-menu": {
 		"atom-text-editor": [{
-			"label": "Toggle atom-to-photoshop console",
+			"label": "Run atom-to-photoshop",
 			"command": "atom-to-photoshop:run"
 		}]
 	},
 	"menu": [{
 		"label": "Packages",
 		"submenu": [{
-			"label": "atom-to-photoshop",
+			"label": "Atom to Photoshop",
 			"submenu": [{
 					"label": "Run",
 					"command": "atom-to-photoshop:run"
