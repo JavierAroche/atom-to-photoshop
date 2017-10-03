@@ -1,13 +1,13 @@
 {
-	"name": "atom-to-photoshop",
-	"main": "./lib/atom-to-photoshop",
-	"version": "1.0.0",
-	"description": "Atom to Photoshop is an extension for Atom to execute a JSX file in Photoshop.",
-	"keywords": [],
-	"repository": "https://github.com/javieraroche/atom-to-photoshop",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"dependencies": {}
+  "name": "atom-to-photoshop",
+  "main": "./lib/atom-to-photoshop",
+  "version": "2.0.0",
+  "description": "Atom to Photoshop is an extension for Atom to execute a JSX file in Photoshop.",
+  "keywords": [],
+  "repository": "https://github.com/javieraroche/atom-to-photoshop",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
