@@ -1,6 +1,6 @@
 # Atom-to-Photoshop
 
-[![npm-image](https://img.shields.io/badge/atom%20to%20photoshop-v1.0.0-09bc00.svg)](https://github.com/JavierAroche/atom-to-photoshop)
+[![npm-image](https://img.shields.io/badge/atom%20to%20photoshop-v2.0.1-09bc00.svg)](https://github.com/JavierAroche/atom-to-photoshop)
 
 ### Description
 ---------
